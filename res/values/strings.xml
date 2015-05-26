@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">超能Detector</string>
+    
+    <string name="title_section1">甲醛指数</string>
+    <string name="title_section2">历史统计</string>
+    <string name="title_section3">用户信息</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">设置</string>
+	
+    <!-- general -->
+    <string name="str_null">NULL</string>
+    <!-- device list activity -->
+    <string name="devicelist_title">设备列表</string>
+    <!-- device scan -->
+    <string name="devicescan_title">设备搜索</string>
+    <!-- statics fragment -->
+    <string name="btn_day">日</string>
+    <string name="btn_month">月</string>
+    <string name="btn_week">周</string>
+    <!-- profile fragment -->
+   	<string name="btn_signup">注册新用户</string>
+   	<string name="btn_signin">登录</string>
+   	<string name="title_devicelist">设备列表</string>
+   	
+   	<!-- demo -->
+   	<string name="tip_msg">每天下午4点~6点是最佳的通风时间</string>
+</resources>

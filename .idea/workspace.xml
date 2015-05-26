@@ -1,0 +1,1965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="name" value="app: com.casic.sensorhub" />
+        <option name="packageNamePattern" value="com.casic.sensorhub" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="DEBUG" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.casic.sensorhub" />
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="jar://$PROJECT_DIR$/libs/mina-core-2.0.9.jar!/org/apache/mina/core/service/AbstractIoService.class" line="46" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1cf913d1-1de1-419f-97de-3d0cf714b61c" name="Default" comment="修改rest api ion的请求方式为string，在callback回掉里面处理返回json字符串，最外层json只能用jsonObject处理">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/assets/6691924d7d24237d3b3679310157d640" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/libs/android-support-v4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/test/assets/exif.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/libs/gson-2.2.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/ic_launcher-web.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/res/drawable-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/res/drawable-ldpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/res/drawable-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/res/drawable-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ion.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/res/raw/keystore.bks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/test/res/raw/keystore.bks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/materiallist.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/mina-core-2.0.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/mpchartlib.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/slf4j-android-1.6.1-RC1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/res/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/res/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/test/res/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/socketio/Acknowledge.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/util/Allocator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/Android.mk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/Android.mk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/AndroidAsync-AndroidAsync.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/AndroidAsync.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/builder/AnimateGifMode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/ArrayDeque.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/loader/AssetLoader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/test/src/com/koushikdutta/ion/test/AssetTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/AsyncDatagramSocket.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/AsyncHttpClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/AsyncHttpClientMiddleware.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/AsyncHttpGet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/AsyncHttpHead.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/AsyncHttpPost.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/AsyncHttpRequest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/body/AsyncHttpRequestBody.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/loader/AsyncHttpRequestFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/AsyncHttpResponse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/AsyncHttpResponseImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/server/AsyncHttpServer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/server/AsyncHttpServerRequest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/server/AsyncHttpServerRequestImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/server/AsyncHttpServerResponse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/server/AsyncHttpServerResponseImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/AsyncNetworkSocket.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/parser/AsyncParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/server/AsyncProxyServer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/AsyncSSLEngineConfigurator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/AsyncSSLException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/AsyncSSLSocket.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/AsyncSSLSocketMiddleware.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/AsyncSSLSocketWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/AsyncSemaphore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/AsyncServer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/AsyncServerSocket.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/AsyncSocket.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/AsyncSocketMiddleware.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/wrapper/AsyncSocketWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/spdy/AsyncSpdyConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/test/src/com/koushikdutta/ion/test/AuthTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/spdy/BitArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/builder/BitmapBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/BitmapCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/bitmap/BitmapDecodeException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/BitmapFetcher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/builder/BitmapFutureBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/bitmap/BitmapInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/BitmapInfoToBitmap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/test/src/com/koushikdutta/ion/test/BitmapTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/BodyDecoderException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/src/com/koushikdutta/async/test/BodyTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/server/BoundaryEmitter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/BufferedDataEmitter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/BufferedDataSink.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/builder/Builders.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/ByteBufferList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/stream/ByteBufferListInputStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/parser/ByteBufferListParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/spdy/ByteString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/src/com/koushikdutta/async/test/ByteUtilTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/src/com/koushikdutta/async/test/CacheTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/future/Cancellable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/ChannelWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/util/Charsets.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/filter/ChunkedDataException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/filter/ChunkedInputFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/filter/ChunkedOutputFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mediatek/android/IoTManager/ClientInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/test/src/com/koushikdutta/ion/test/CompileTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/callback/CompletedCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/callback/ConnectCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/socketio/ConnectCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/ConnectionClosedException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/ConnectionFailedException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/conscrypt/ConscryptMiddleware.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/src/com/koushikdutta/async/test/ConscryptTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/test/src/com/koushikdutta/ion/test/ConscryptTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/filter/ContentLengthFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/loader/ContentLoader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/ContextReference.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/future/Continuation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/callback/ContinuationCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/future/ConvertFuture.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/cookie/CookieMiddleware.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/test/src/com/koushikdutta/ion/test/CookieTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/test/src/com/koushikdutta/ion/test/CustomParserTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/callback/DataCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/DataEmitter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/DataEmitterBase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/DataEmitterReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/wrapper/DataEmitterWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/filter/DataRemainingException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/DataSink.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/DataTrackingEmitter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/DatagramChannelWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/DefaultTransform.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/DeferredLoadBitmap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/future/DependentCancellable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/future/DependentFuture.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/Deque.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/socketio/DisconnectCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/dns/Dns.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/dns/DnsResponse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/src/com/koushikdutta/async/test/DnsTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/body/DocumentBody.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/parser/DocumentParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/socketio/ErrorCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/spdy/ErrorCode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/socketio/EventCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/socketio/EventEmitter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/socketio/ExceptionCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/test/src/com/koushikdutta/ion/test/ExceptionTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/bitmap/Exif.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/test/src/com/koushikdutta/ion/test/ExifTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/body/FileBody.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/util/FileCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/FileCacheStore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/src/com/koushikdutta/async/test/FileCacheTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/FileDataEmitter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/stream/FileDataSink.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/loader/FileLoader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/body/FilePart.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/src/com/koushikdutta/async/test/FileTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/test/src/com/koushikdutta/ion/test/FileTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/util/FileUtility.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/FilteredDataEmitter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/FilteredDataSink.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/spdy/FrameReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/spdy/FrameWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/future/Future.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/builder/FutureBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/future/FutureCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/future/FutureRunnable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/src/com/koushikdutta/async/test/FutureTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/future/FutureThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/filter/GZIPInputFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/gif/GifDecoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/gif/GifFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/test/src/com/koushikdutta/ion/test/GifTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/gson/GsonArrayParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/gson/GsonBody.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/builder/GsonFutureBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/gson/GsonObjectParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/gson/GsonParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/gson/GsonSerializer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/test/src/com/koushikdutta/ion/test/GsonTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/future/HandlerFuture.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/util/HashList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/spdy/Header.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/cache/HeaderParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/spdy/HeaderReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/Headers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/HeadersCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/spdy/HeadersMode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/HeadersResponse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/test/src/com/koushikdutta/ion/test/HeadersTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/HostnameResolutionException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/spdy/HpackDraft08.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/spdy/Http20Draft13.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/src/com/koushikdutta/async/test/HttpClientTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/callback/HttpConnectCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/HttpDate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/loader/HttpLoader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/server/HttpServerRequestCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/src/com/koushikdutta/async/test/HttpServerTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/test/src/com/koushikdutta/ion/test/HttpTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/HttpTransportMiddleware.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/HttpUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/spdy/Huffman.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/HybiParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/ImageViewBitmapInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/builder/ImageViewBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/future/ImageViewFuture.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/builder/ImageViewFutureBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/ImageViewFutureImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/filter/InflaterInputFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/stream/InputStreamDataEmitter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/loader/InputStreamDataEmitterFuture.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/InputStreamParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mediatek/android/IoTManager/IoTManagerNative.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/Ion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/bitmap/IonBitmapCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/IonBitmapRequestBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/IonDrawable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/IonImageViewRequestBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/IonLog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/IonRequestBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/src/com/koushikdutta/async/test/Issue59.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/test/src/com/koushikdutta/ion/test/Issues.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/body/JSONArrayBody.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/parser/JSONArrayParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/socketio/JSONCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/body/JSONObjectBody.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/parser/JSONObjectParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/LineEmitter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/callback/ListenCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/LoadBitmap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/LoadBitmapBase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/LoadBitmapEmitter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/LoadBitmapRegion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/builder/LoadBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/LoadDeepZoom.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/builder/LoadImageViewFutureBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/Loader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/bitmap/LocallyCachedStatus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/bitmap/LruBitmapCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/util/LruCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/server/MalformedRangeException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/bitmap/MarkableInputStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/src/com/koushikdutta/async/test/Md5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/test/src/com/koushikdutta/ion/test/Md5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/loader/MediaFile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/server/MimeEncodingException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/loader/MtpConstants.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/Multimap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/builder/MultipartBodyBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/body/MultipartFormDataBody.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/src/com/koushikdutta/async/test/MultipartTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/cache/Objects.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/stream/OutputStreamDataCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/stream/OutputStreamDataSink.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/loader/PackageIconLoader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/src/com/koushikdutta/async/test/ParserTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/body/Part.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/spdy/Ping.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/gson/PojoBody.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/bitmap/PostProcess.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/filter/PrematureDataEndException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/ProgressCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/test/src/com/koushikdutta/ion/test/ProgressTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/Protocol.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/src/com/koushikdutta/async/test/ProxyTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/PushParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/gif/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/cache/RawHeaders.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/socketio/ReconnectCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/RedirectLimitExceededException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/src/com/koushikdutta/async/test/RedirectTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/test/src/com/koushikdutta/ion/test/RedirectTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/RequestBodyUploadObserver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/builder/RequestBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/callback/RequestCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/cache/RequestHeaders.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/loader/ResourceLoader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/Response.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/cache/ResponseCacheMiddleware.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/future/ResponseFuture.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/cache/ResponseHeaders.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/cache/ResponseSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/callback/ResultCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/src/com/koushikdutta/async/test/SSLTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/src/com/koushikdutta/async/test/SanityChecks.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/ScaleMode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/SelectorWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/test/src/com/koushikdutta/ion/test/SelfSignedCertificateTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/ServerSocketChannelWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/spdy/Settings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/future/SimpleCancellable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/future/SimpleFuture.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/loader/SimpleLoader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/SimpleMiddleware.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/SocketChannelWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/socketio/SocketIOClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/socketio/SocketIOConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/socketio/SocketIOException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/socketio/SocketIORequest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/src/com/koushikdutta/async/test/SocketIOTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/socketio/transport/SocketIOTransport.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/bitmap/SoftReferenceHashtable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/spdy/Spdy3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/spdy/SpdyMiddleware.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/test/src/com/koushikdutta/ion/test/SpdyTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/spdy/SpdyTransport.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/test/src/com/koushikdutta/ion/test/StoreTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/body/StreamBody.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/loader/StreamLoader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/body/StreamPart.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/server/StreamSkipException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/test/src/com/koushikdutta/ion/test/StreamTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/util/StreamUtility.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/cache/StrictLineReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/body/StringBody.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/socketio/StringCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/parser/StringParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/body/StringPart.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/util/TaggedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/TapCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/ThreadQueue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/src/com/koushikdutta/async/test/TimeoutTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/bitmap/Transform.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/TransformBitmap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/future/TransformFuture.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/src/com/koushikdutta/async/test/TriggerFuture.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/casic/sensorhub/udp/UdpClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/server/UnknownRequestBody.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/util/UntypedHashtable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/builder/UrlEncodedBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/body/UrlEncodedFormBody.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/Util.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/spdy/Util.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/spdy/Variant.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/loader/VideoLoader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/WebSocket.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/WebSocketHandshakeException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/WebSocketImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/src/com/koushikdutta/async/test/WebSocketTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/socketio/transport/WebSocketTransport.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/callback/WritableCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/http/socketio/transport/XHRPollingTransport.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/ZipDataSink.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/ant.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/assets/hello.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/ion-ion.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/ion_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/armeabi/libIoT_manager_jni.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/lint.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/proguard-project.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/proguard-project.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sensorHubLibs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/settings.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/test/test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/assets/test.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/test1.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ion-master/ion/test/test1.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="DELETED" beforePath="D:\predator\sparta\app\sensorhub\src\com\casic\sensorhub\udp\Client.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/casic/sensorhub/http/ApiClent.java" afterPath="$PROJECT_DIR$/src/com/casic/sensorhub/http/ApiClent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/casic/sensorhub/asyntask/DeviceScanTask.java" afterPath="$PROJECT_DIR$/src/com/casic/sensorhub/asyntask/DeviceScanTask.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/casic/sensorhub/activity/MainActivity.java" afterPath="$PROJECT_DIR$/src/com/casic/sensorhub/activity/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/casic/sensorhub/SensorHubApplication.java" afterPath="$PROJECT_DIR$/src/com/casic/sensorhub/SensorHubApplication.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sensorhub.iml" afterPath="$PROJECT_DIR$/sensorhub.iml" />
+    </list>
+    <ignored path="sensorhub.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="sensorhub" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/casic/sensorhub/activity/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.1495327" vertical-offset="1386" max-vertical-offset="3174">
+              <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1385#2064#0" expanded="true" />
+                <element signature="e#2063#2064#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RestResponse.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/casic/sensorhub/bean/RestResponse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="1127">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScanDeviceInfo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/casic/sensorhub/bean/ScanDeviceInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="271" max-vertical-offset="851">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserInfo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/casic/sensorhub/bean/UserInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="1104">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClientInfo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mediatek/android/IoTManager/ClientInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="736">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+              <folding>
+                <element signature="e#299#300#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IoTManagerNative.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mediatek/android/IoTManager/IoTManagerNative.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1061" max-vertical-offset="2415">
+              <caret line="44" column="29" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#3668#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="libIoT_manager_jni.so" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libs/armeabi/libIoT_manager_jni.so">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9292">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1173">
+              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZygoteInit.java" pinned="false" current-in-tab="false">
+        <entry file="file://F:/androidsdk/android-sdk-windows/sources/android-19/com/android/internal/os/ZygoteInit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="16071" max-vertical-offset="17365">
+              <caret line="789" column="13" selection-start-line="789" selection-start-column="13" selection-end-line="789" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SensorHubApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/casic/sensorhub/SensorHubApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="598">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/casic/sensorhub/utils/UIHelper.java" />
+        <option value="$PROJECT_DIR$/src/com/casic/sensorhub/utils/AppContext.java" />
+        <option value="$PROJECT_DIR$/res/layout/fragment_main.xml" />
+        <option value="$PROJECT_DIR$/res/menu/main.xml" />
+        <option value="$PROJECT_DIR$/res/layout/splash.xml" />
+        <option value="$PROJECT_DIR$/../../../code/androidRelated/ion-master/ion/src/com/koushikdutta/ion/Loader.java" />
+        <option value="$PROJECT_DIR$/../../../code/androidRelated/AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/AsyncDatagramSocket.java" />
+        <option value="$PROJECT_DIR$/src/com/casic/sensorhub/http/ApiClentTest.java" />
+        <option value="$PROJECT_DIR$/test/ApiClentTest.java" />
+        <option value="$PROJECT_DIR$/src/com/casic/sensorhub/bean/RestResponse.java" />
+        <option value="$PROJECT_DIR$/src/com/casic/sensorhub/bean/UserInfo.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/builder/UrlEncodedBuilder.java" />
+        <option value="$PROJECT_DIR$/src/com/casic/sensorhub/http/NetUrl.java" />
+        <option value="$PROJECT_DIR$/test/com/casic/sensorhub/http/ApiClentTest.java" />
+        <option value="$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/AsyncDatagramSocket.java" />
+        <option value="$PROJECT_DIR$/src/com/casic/sensorhub/udp/AndroidClient.java" />
+        <option value="$PROJECT_DIR$/src/com/casic/sensorhub/udp/UDPClient.java" />
+        <option value="$PROJECT_DIR$/src/com/casic/sensorhub/udp/Client.java" />
+        <option value="$PROJECT_DIR$/src/com/casic/sensorhub/asyntask/DeviceScanTask.java" />
+        <option value="$PROJECT_DIR$/src/com/casic/sensorhub/udp/Client2java" />
+        <option value="$PROJECT_DIR$/src/com/casic/sensorhub/udp/MemoClient.java" />
+        <option value="$PROJECT_DIR$/src/com/casic/sensorhub/udp/MemonClient.java" />
+        <option value="$PROJECT_DIR$/src/com/casic/sensorhub/udp/MemMonClient.java" />
+        <option value="$PROJECT_DIR$/src/com/casic/sensorhub/http/ApiClent.java" />
+        <option value="$PROJECT_DIR$/src/com/casic/sensorhub/SensorHubApplication.java" />
+        <option value="$PROJECT_DIR$/src/com/casic/sensorhub/bean/ClientInfo.java" />
+        <option value="$PROJECT_DIR$/src/com/casic/sensorhub/udp/IoTManagerNative.java" />
+        <option value="$PROJECT_DIR$/src/com/mediatek/android/IoTManager/IoTManagerNative.java" />
+        <option value="$PROJECT_DIR$/src/com/mediatek/android/IoTManager/ClientInfo.java" />
+        <option value="$PROJECT_DIR$/src/com/casic/sensorhub/udp/UdpClient.java" />
+        <option value="$PROJECT_DIR$/src/com/casic/sensorhub/activity/MainActivity.java" />
+        <option value="$PROJECT_DIR$/src/mediatek/android/IoTManager/IoTManagerNative.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sensorhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sensorhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sensorhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sensorhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sensorhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IoTManager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sensorhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sensorhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sensorhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sensorhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sensorhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sensorhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sensorhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sensorhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sensorhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="activity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sensorhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sensorhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sensorhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sensorhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="armeabi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/armeabi/libIoT_manager_jni.so" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="AndroidTargetDevices" value="fcf072f9" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/test" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\predator\sparta\app\sensorhub\libs" />
+      <recent name="D:\predator\sparta\app\sensorhub\libs\armeabi" />
+      <recent name="D:\predator\sparta\app\sensorhub\src\mediatek\android\IoTManager" />
+      <recent name="D:\predator\sparta\app\sensorhub" />
+      <recent name="D:\predator\sparta\app\sensorhub\jniLibs" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.casic.sensorhub.http" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mediatek.android.IoTManager" />
+      <recent name="com.casic.sensorhub.udp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.sensorhub">
+    <configuration default="false" name="ApiClentTest" type="AndroidTestRunConfigurationType" factoryName="Android Tests" temporary="true" nameIsGenerated="true">
+      <module name="sensorhub" />
+      <option name="TESTING_TYPE" value="2" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="com.casic.sensorhub.http.ApiClentTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="testrestRegisterFa...()" type="AndroidTestRunConfigurationType" factoryName="Android Tests" temporary="true" nameIsGenerated="true">
+      <module name="sensorhub" />
+      <option name="TESTING_TYPE" value="3" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="testrestRegisterFailed" />
+      <option name="CLASS_NAME" value="com.casic.sensorhub.http.ApiClentTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="testPostArticle()" type="AndroidTestRunConfigurationType" factoryName="Android Tests" temporary="true" nameIsGenerated="true">
+      <module name="sensorhub" />
+      <option name="TESTING_TYPE" value="3" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="testPostArticle" />
+      <option name="CLASS_NAME" value="com.casic.sensorhub.http.ApiClentTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="testPostComment()" type="AndroidTestRunConfigurationType" factoryName="Android Tests" temporary="true" nameIsGenerated="true">
+      <module name="sensorhub" />
+      <option name="TESTING_TYPE" value="3" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="testPostComment" />
+      <option name="CLASS_NAME" value="com.casic.sensorhub.http.ApiClentTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="testGetComments()" type="AndroidTestRunConfigurationType" factoryName="Android Tests" temporary="true" nameIsGenerated="true">
+      <module name="sensorhub" />
+      <option name="TESTING_TYPE" value="3" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="testGetComments" />
+      <option name="CLASS_NAME" value="com.casic.sensorhub.http.ApiClentTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="sensorhub" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="sensorhub" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AndroidAsyncSample" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.sensorhub" />
+      <item index="1" class="java.lang.String" itemvalue="Android Application.AndroidAsyncSample" />
+      <item index="2" class="java.lang.String" itemvalue="Android Tests.ApiClentTest" />
+      <item index="3" class="java.lang.String" itemvalue="Android Tests.testrestRegisterFa...()" />
+      <item index="4" class="java.lang.String" itemvalue="Android Tests.testPostArticle()" />
+      <item index="5" class="java.lang.String" itemvalue="Android Tests.testPostComment()" />
+      <item index="6" class="java.lang.String" itemvalue="Android Tests.testGetComments()" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Android Tests.testGetComments()" />
+        <item index="1" class="java.lang.String" itemvalue="Android Tests.testPostComment()" />
+        <item index="2" class="java.lang.String" itemvalue="Android Tests.testPostArticle()" />
+        <item index="3" class="java.lang.String" itemvalue="Android Tests.testrestRegisterFa...()" />
+        <item index="4" class="java.lang.String" itemvalue="Android Tests.ApiClentTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cf913d1-1de1-419f-97de-3d0cf714b61c" name="Default" comment="" />
+      <created>1430460991129</created>
+      <option name="number" value="Default" />
+      <updated>1430460991129</updated>
+      <workItem from="1430460994077" duration="16114000" />
+      <workItem from="1430479693700" duration="27066000" />
+      <workItem from="1430636452065" duration="3844000" />
+      <workItem from="1430661090293" duration="4097000" />
+      <workItem from="1430743141868" duration="9796000" />
+      <workItem from="1430836353534" duration="2990000" />
+      <workItem from="1430918708211" duration="6108000" />
+      <workItem from="1431009246072" duration="17955000" />
+      <workItem from="1431176178446" duration="10584000" />
+      <workItem from="1431249991586" duration="6143000" />
+      <workItem from="1431347776966" duration="31978000" />
+      <workItem from="1432217246712" duration="2777000" />
+      <workItem from="1432451250618" duration="2821000" />
+    </task>
+    <task id="LOCAL-00001" summary="测试单播UDP通过">
+      <created>1430522409968</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1430522409968</updated>
+    </task>
+    <task id="LOCAL-00002" summary="测试单播UDP通过加入版本管理">
+      <created>1430522552838</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1430522552838</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修改rest api ion的请求方式为string，在callback回掉里面处理返回json字符串，最外层json只能用jsonObject处理">
+      <created>1430636030533</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1430636030533</updated>
+    </task>
+    <task id="LOCAL-00004" summary="修改rest api ion的请求方式为string，在callback回掉里面处理返回json字符串，最外层json只能用jsonObject处理,&#10;完成登录接口的测试">
+      <created>1430639762237</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1430639762237</updated>
+    </task>
+    <task id="LOCAL-00005" summary="增加对于rest api的单元测试框架">
+      <created>1430665116540</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1430665116540</updated>
+    </task>
+    <task id="LOCAL-00006" summary="完成登录和注册的rest api 单元测试，由于无法实现文件上传的api">
+      <created>1430752858944</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1430752858944</updated>
+    </task>
+    <task id="LOCAL-00007" summary="发帖成功接口测试，修复article表中的序列名称，改用controller实现文件的上传，而不是rest&#10; api接口。">
+      <created>1430924619447</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1430924619447</updated>
+    </task>
+    <task id="LOCAL-00008" summary="完成rest api发表评论与获取评论信息的api 测试">
+      <created>1431012960544</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1431012960544</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="142273000" />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25712085" sideWeight="0.50144094" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.57610476" sideWeight="0.43019727" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.05237316" sideWeight="0.56980276" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32569557" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32569557" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43535188" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32569557" sideWeight="0.4996151" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38134205" sideWeight="0.4996151" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32569557" sideWeight="0.49924126" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45662847" sideWeight="0.67147195" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32473445" sideWeight="0.78583765" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32473445" sideWeight="0.21416235" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19878604" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840723" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="测试单播UDP通过" />
+    <MESSAGE value="测试单播UDP通过加入版本管理" />
+    <MESSAGE value="修改rest api ion的请求方式为string，在callback回掉里面处理返回json字符串，最外层json只能用jsonObject处理" />
+    <MESSAGE value="修改rest api ion的请求方式为string，在callback回掉里面处理返回json字符串，最外层json只能用jsonObject处理,&#10;完成登录接口的测试" />
+    <MESSAGE value="增加对于rest api的单元测试框架" />
+    <MESSAGE value="完成登录和注册的rest api 单元测试，由于无法实现文件上传的api" />
+    <MESSAGE value="发帖成功接口测试，修复article表中的序列名称，改用controller实现文件的上传，而不是rest&#10; api接口。" />
+    <MESSAGE value="完成rest api发表评论与获取评论信息的api 测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成rest api发表评论与获取评论信息的api 测试" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../code/androidRelated/AndroidAsync-master/AndroidAsync/src/com/koushikdutta/async/AsyncDatagramSocket.java</url>
+          <line>2</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/com/casic/sensorhub/http/ApiClentTest.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/casic/sensorhub/activity/MainActivity.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/casic/sensorhub/udp/UdpClient.java</url>
+          <properties />
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/casic/sensorhub/udp/UdpClient.java</url>
+          <line>90</line>
+          <properties />
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/casic/sensorhub/udp/UdpClient.java</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/casic/sensorhub/udp/UdpClient.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/casic/sensorhub/udp/UdpClient.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/casic/sensorhub/udp/UdpClient.java</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/casic/sensorhub/udp/UdpClient.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/casic/sensorhub/udp/UdpClient.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/casic/sensorhub/udp/UdpClient.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/casic/sensorhub/activity/MainActivity.java</url>
+          <line>87</line>
+          <properties />
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="175" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="sensorhub">
+        <watch expression="address.getHostName()" />
+        <watch expression="address.getHostName()" />
+        <watch expression="resp2" />
+        <watch expression="e" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://F:/androidsdk/android-sdk-windows/platforms/android-17/android.jar!/java/net/InetSocketAddress.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="207" max-vertical-offset="805">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/androidsdk/android-sdk-windows/platforms/android-17/android.jar!/java/net/DatagramSocket.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.72" vertical-offset="934" max-vertical-offset="2875">
+          <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/androidsdk/android-sdk-windows/sources/android-19/android/os/StrictMode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="24628" max-vertical-offset="48967">
+          <caret line="1204" column="0" selection-start-line="1204" selection-start-column="0" selection-end-line="1204" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/mina-core-2.0.9.jar!/org/apache/mina/core/future/ConnectFuture.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="138" max-vertical-offset="805">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/mina-core-2.0.9.jar!/org/apache/mina/core/future/IoFutureListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.68" vertical-offset="15" max-vertical-offset="437">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/mina-core-2.0.9.jar!/org/apache/mina/core/service/AbstractIoConnector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.56" vertical-offset="1559" max-vertical-offset="3588">
+          <caret line="105" column="31" selection-start-line="105" selection-start-column="31" selection-end-line="105" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/mina-core-2.0.9.jar!/org/apache/mina/core/future/DefaultConnectFuture.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.64" vertical-offset="0" max-vertical-offset="1771">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/bitmap/IonBitmapCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5290">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ion-master/ion/src/com/koushikdutta/ion/bitmap/BitmapDecodeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="529">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/ion.jar!/com/koushikdutta/async/future/FutureCallback.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="92" max-vertical-offset="299">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/ion.jar!/com/koushikdutta/ion/Ion.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="138" max-vertical-offset="9177">
+          <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/casic/sensorhub/asyntask/DeviceScanTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="1403">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/casic/sensorhub/asyntask/BaseAsyncTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1081">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/casic/sensorhub/http/ApiClent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="3197">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AndroidAsync-master/AndroidAsync/test/src/com/koushikdutta/async/test/TimeoutTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23793103" vertical-offset="0" max-vertical-offset="2392">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/com/casic/sensorhub/Manifest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="276">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/com/casic/sensorhub/BuildConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="299">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/com/casic/sensorhub/R.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="276">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/mina-core-2.0.9.jar!/org/apache/mina/transport/socket/nio/NioDatagramConnector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.76" vertical-offset="15" max-vertical-offset="2576">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/androidsdk/android-sdk-windows/platforms/android-17/android.jar!/java/lang/Object.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.68" vertical-offset="0" max-vertical-offset="989">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/jdk/jre/lib/rt.jar!/com/sun/jmx/snmp/IPAcl/AclEntryImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.52" vertical-offset="0" max-vertical-offset="2921">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/androidsdk/android-sdk-windows/sources/android-19/android/app/ActivityThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="42156" max-vertical-offset="111205">
+          <caret line="2078" column="0" selection-start-line="2078" selection-start-column="0" selection-end-line="2078" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/mina-core-2.0.9.jar!/org/apache/mina/core/service/IoHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.36" vertical-offset="0" max-vertical-offset="736">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/jdk/src.zip!/com/sun/jmx/snmp/IPAcl/AclEntryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5359">
+          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/casic/sensorhub/udp/UdpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1802" max-vertical-offset="2369">
+          <caret line="90" column="28" selection-start-line="90" selection-start-column="23" selection-end-line="90" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/mina-core-2.0.9.jar!/org/apache/mina/core/filterchain/DefaultIoFilterChain.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4594096" vertical-offset="6720" max-vertical-offset="19343">
+          <caret line="331" column="33" selection-start-line="331" selection-start-column="23" selection-end-line="331" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/mina-core-2.0.9.jar!/org/apache/mina/core/filterchain/IoFilterChain.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26486486" vertical-offset="865" max-vertical-offset="2277">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/mina-core-2.0.9.jar!/org/apache/mina/core/session/AbstractIoSession.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.54428047" vertical-offset="5087" max-vertical-offset="16698">
+          <caret line="302" column="39" selection-start-line="302" selection-start-column="24" selection-end-line="302" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/mina-core-2.0.9.jar!/org/apache/mina/core/session/IoSession.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="207" max-vertical-offset="3565">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/mina-core-2.0.9.jar!/org/apache/mina/core/service/IoAcceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="138" max-vertical-offset="1219">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/mina-core-2.0.9.jar!/org/apache/mina/core/service/IoConnector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="299" max-vertical-offset="989">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/mina-core-2.0.9.jar!/org/apache/mina/filter/logging/LoggingFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="207" max-vertical-offset="3956">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/mina-core-2.0.9.jar!/org/apache/mina/core/service/IoService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="46" max-vertical-offset="1357">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/mina-core-2.0.9.jar!/org/apache/mina/core/service/IoServiceListenerSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4722222" vertical-offset="1654" max-vertical-offset="5244">
+          <caret line="114" column="40" selection-start-line="114" selection-start-column="24" selection-end-line="114" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/mina-core-2.0.9.jar!/org/apache/mina/core/service/AbstractIoService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="740" max-vertical-offset="6049">
+          <caret line="77" column="42" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/mina-core-2.0.9.jar!/org/apache/mina/core/filterchain/IoFilterAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="138" max-vertical-offset="1748">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/mina-core-2.0.9.jar!/org/apache/mina/core/filterchain/IoFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1150" max-vertical-offset="1541">
+          <caret line="56" column="41" selection-start-line="56" selection-start-column="41" selection-end-line="56" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/androidsdk/android-sdk-windows/sources/android-19/android/os/AsyncTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4529" max-vertical-offset="14559">
+          <caret line="231" column="0" selection-start-line="231" selection-start-column="0" selection-end-line="231" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26577#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#9107#9108#0" expanded="false" />
+            <element signature="e#9193#9194#0" expanded="false" />
+            <element signature="e#9304#9314#0" expanded="false" />
+            <element signature="e#10535#10545#0" expanded="false" />
+            <element signature="e#11751#11752#0" expanded="false" />
+            <element signature="e#11787#11788#0" expanded="false" />
+            <element signature="e#11864#11865#0" expanded="false" />
+            <element signature="e#11903#11904#0" expanded="false" />
+            <element signature="e#13640#13641#0" expanded="false" />
+            <element signature="e#13670#13671#0" expanded="false" />
+            <element signature="e#16027#16028#0" expanded="false" />
+            <element signature="e#16056#16057#0" expanded="false" />
+            <element signature="e#17025#17026#0" expanded="false" />
+            <element signature="e#17064#17065#0" expanded="false" />
+            <element signature="e#24498#24499#0" expanded="false" />
+            <element signature="e#24548#24549#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/androidsdk/android-sdk-windows/sources/android-19/com/android/internal/os/RuntimeInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1125" max-vertical-offset="8924">
+          <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14962#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#4318#4319#0" expanded="false" />
+            <element signature="e#4401#4402#0" expanded="false" />
+            <element signature="e#13133#13134#0" expanded="false" />
+            <element signature="e#13173#13174#0" expanded="false" />
+            <element signature="e#13231#13232#0" expanded="false" />
+            <element signature="e#13272#13273#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/androidsdk/android-sdk-windows/platforms/android-17/android.jar!/java/lang/System.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1265" max-vertical-offset="1725">
+          <caret line="96" column="23" selection-start-line="96" selection-start-column="23" selection-end-line="96" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/casic/sensorhub/SensorHubApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="598">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/casic/sensorhub/bean/RestResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="1127">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/casic/sensorhub/bean/ScanDeviceInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="271" max-vertical-offset="851">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/casic/sensorhub/bean/UserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="1104">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/armeabi/libIoT_manager_jni.so">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9292">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mediatek/android/IoTManager/ClientInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="736">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1173">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/androidsdk/android-sdk-windows/sources/android-19/com/android/internal/os/ZygoteInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="16071" max-vertical-offset="17365">
+          <caret line="789" column="13" selection-start-line="789" selection-start-column="13" selection-end-line="789" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mediatek/android/IoTManager/IoTManagerNative.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1061" max-vertical-offset="2415">
+          <caret line="44" column="29" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#3668#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/casic/sensorhub/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1495327" vertical-offset="1386" max-vertical-offset="3174">
+          <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1385#2064#0" expanded="true" />
+            <element signature="e#2063#2064#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>ion:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android (sensorhub)|Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android API 17 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android|sensorhub</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>sensorHubLibs</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
